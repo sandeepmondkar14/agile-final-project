@@ -1,10 +1,10 @@
-# Product Catalog Backend for E-commerce Website
+# Agile Product Catalog Backend: A Kanban-Managed E-commerce Solution
 
 ## 🚀 Project Overview
 
-This project is the backend development for a core **Product Catalog** service, designed to support an e-commerce website. The primary goal is to provide robust capabilities for managing product data, including creation, retrieval, updates, deletions, and interaction features like product 'liking' and 'disliking'. A key aspect of this project is its deployment to a cloud environment with automated continuous delivery.
+This project focuses on the backend development for a core **Product Catalog** service, designed to support an e-commerce website. The primary goal is to provide robust capabilities for managing product data, including creation, retrieval, updates, deletions, and interaction features like product 'liking' and 'disliking'. A key aspect of this project is its deployment to a cloud environment with automated continuous delivery, demonstrating a complete software development lifecycle.
 
-This final project serves as a practical application of Agile methodologies, specifically utilizing a Kanban board for managing the product backlog, sprint planning, and simulating sprint execution.
+This final project serves as a practical application of Agile methodologies, specifically utilizing a Kanban board on GitHub Projects for managing the product backlog, sprint planning, and simulating sprint execution.
 
 ## ✨ Key Features (Stakeholder Requirements)
 
@@ -21,7 +21,7 @@ The following core functionalities are being developed for the product catalog:
 * **Product Discovery:**
     * Ability to **List all** products in the catalog.
     * Ability to **Query a subset** of products based on criteria.
-* **Infrastructure & Operations:**
+* **Infrastructure & Operations (Technical Debt Focus):**
     * Must be **hosted in the cloud** for scalability and availability.
     * Must have **automation** to deploy new changes to the cloud efficiently.
 
@@ -43,6 +43,16 @@ Our Kanban board, named "Final Project," is structured with the following column
 * **In Progress:** Work actively being developed by a team member.
 * **Review/QA:** Completed work awaiting testing and quality assurance.
 * **Done:** Features that are fully completed, tested, and potentially deployed.
+
+---
+
+**Current Kanban Board Status:**
+
+![Kanban Board Left Side](images/Kanban board (left side).png)
+![Kanban Board Right Side](images/Kanban board (right side).png)
+*(Note: These images show the full progression of stories across our Kanban board during the simulated sprint.)*
+
+---
 
 ### User Stories
 
@@ -91,13 +101,19 @@ The burndown chart visually tracks our progress, showing the remaining work agai
     * `Update Product in Catalog` (5 pts - In Progress)
     * `Delete Product from Catalog` (3 pts - In Sprint Backlog)
 
-[**Link to Burndown Chart:** `https://github.com/users/sandeepmondkar14/projects/2/insights/1`](https://github.com/users/sandeepmondkar14/projects/2/insights/1)
+---
 
+**Sprint 1 Burndown Chart:**
+
+![Sprint 1 Burndown Chart](images/BurnDown chart.png)
+
+---
 
 ## 🔗 Project Links
 
-* **GitHub Repository:** `https://github.com/YOUR_GITHUB_USERNAME/agile-final-project`
-* **Kanban Board (GitHub Project):** `https://github.com/sandeepmondkar14/agile-final-project/projects/1` (or `projects/2` as per your link)
+* **GitHub Repository:** `https://github.com/sandeepmondkar14/agile-final-project`
+* **Kanban Board (GitHub Project):** `https://github.com/users/sandeepmondkar14/projects/2`
+* **Burndown Chart (GitHub Insights):** `https://github.com/users/sandeepmondkar14/projects/2/insights`
 
 ---
 
@@ -110,4 +126,3 @@ This project is a solo effort for learning purposes.
 ## 📝 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-*(Optional: If you selected a license during repo creation, ensure this matches. If not, consider adding one.)*
