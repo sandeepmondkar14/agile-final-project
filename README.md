@@ -91,7 +91,7 @@ The burndown chart visually tracks our progress, showing the remaining work agai
     * `Update Product in Catalog` (5 pts - In Progress)
     * `Delete Product from Catalog` (3 pts - In Sprint Backlog)
 
-[**Link to Burndown Chart (if hosted online):** `https://github.com/users/sandeepmondkar14/projects/2/insights/1`](https://github.com/users/sandeepmondkar14/projects/2/insights)
+[**Link to Burndown Chart (if hosted online):** `https://github.com/users/sandeepmondkar14/projects/2/insights/1`](https://github.com/users/sandeepmondkar14/projects/2/insights/1)
 
 
 ## 🔗 Project Links
