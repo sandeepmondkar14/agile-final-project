@@ -48,8 +48,8 @@ Our Kanban board, named "Final Project," is structured with the following column
 
 **Current Kanban Board Status:**
 
-![Kanban Board Left Side](images/Kanban board (left side).png)
-![Kanban Board Right Side](images/Kanban board (right side).png)
+![Kanban Board Left Side](images/Kanban%20board%28left%20side%29.png)
+![Kanban Board Right Side](images/Kanban%20board%20%28right%20side%29.png)
 *(Note: These images show the full progression of stories across our Kanban board during the simulated sprint.)*
 
 ---
@@ -105,7 +105,7 @@ The burndown chart visually tracks our progress, showing the remaining work agai
 
 **Sprint 1 Burndown Chart:**
 
-![Sprint 1 Burndown Chart](images/BurnDown chart.png)
+![Sprint 1 Burndown Chart](images/BurnDown%20chart.png)
 
 ---
 
@@ -113,7 +113,7 @@ The burndown chart visually tracks our progress, showing the remaining work agai
 
 * **GitHub Repository:** `https://github.com/sandeepmondkar14/agile-final-project`
 * **Kanban Board (GitHub Project):** `https://github.com/users/sandeepmondkar14/projects/2`
-* **Burndown Chart (GitHub Insights):** `https://github.com/users/sandeepmondkar14/projects/2/insights`
+* **Burndown Chart (GitHub Insights):** `https://github.com/users/sandeepmondkar14/projects/2/insights/1`
 
 ---
 
