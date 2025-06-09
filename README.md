@@ -91,14 +91,13 @@ The burndown chart visually tracks our progress, showing the remaining work agai
     * `Update Product in Catalog` (5 pts - In Progress)
     * `Delete Product from Catalog` (3 pts - In Sprint Backlog)
 
-[**Link to Burndown Chart (if hosted online):** `https://github.com/users/sandeepmondkar14/projects/2/insights/1`](https://github.com/users/sandeepmondkar14/projects/2/insights/1)
+[**Link to Burndown Chart:** `https://github.com/users/sandeepmondkar14/projects/2/insights/1`](https://github.com/users/sandeepmondkar14/projects/2/insights/1)
 
 
 ## 🔗 Project Links
 
 * **GitHub Repository:** `https://github.com/YOUR_GITHUB_USERNAME/agile-final-project`
-* **Kanban Board (GitHub Project):** `https://github.com/YOUR_GITHUB_USERNAME/agile-final-project/projects/1` (or `projects/2` as per your link)
-    *(Note: Remember to replace `YOUR_GITHUB_USERNAME` and confirm the correct project number in the URL.)*
+* **Kanban Board (GitHub Project):** `https://github.com/sandeepmondkar14/agile-final-project/projects/1` (or `projects/2` as per your link)
 
 ---
 
@@ -106,7 +105,7 @@ The burndown chart visually tracks our progress, showing the remaining work agai
 
 This project is a solo effort for learning purposes.
 
-* **Product Owner / Scrum Master / Developer:** [Your Name / GitHub Username]
+* **Product Owner / Scrum Master / Developer:** Sandeep Mondkar
 
 ## 📝 License
 
