@@ -91,8 +91,8 @@ The burndown chart visually tracks our progress, showing the remaining work agai
     * `Update Product in Catalog` (5 pts - In Progress)
     * `Delete Product from Catalog` (3 pts - In Sprint Backlog)
 
-[**Link to Burndown Chart (if hosted online):** `https://github.com/YOUR_GITHUB_USERNAME/agile-final-project/projects/1/insights`](https://github.com/users/sandeepmondkar14/projects/2/insights)
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual username and verify the project number if it's not '1' or '2'.)*
+[**Link to Burndown Chart (if hosted online):** `https://github.com/sandeepmondkar14/agile-final-project/projects/1/insights`](https://github.com/users/sandeepmondkar14/projects/2/insights)
+
 
 ## 🔗 Project Links
 
